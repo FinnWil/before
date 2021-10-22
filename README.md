@@ -11,9 +11,7 @@ up completion, we will meet with the client and present the outcome
 
 
 
-     --------------------
 ----Team members----
-     --------------------
 
 Jeremy Brokken
 ---------------------
